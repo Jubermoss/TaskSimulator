@@ -406,7 +406,6 @@ int main(void){
         }
     }
     getchar();
-    
 }
 
 
