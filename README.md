@@ -1,5 +1,4 @@
 # Process Simulator
-Simulator Process
 
 Process simulator written on C++. 
 This is a program for help people who want to know how a microprocessor works, 
