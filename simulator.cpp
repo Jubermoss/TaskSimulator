@@ -5,7 +5,6 @@
 //  Created by J. Manuel Mosso on 2/12/15.
 //  Copyright © 2015 J. Manuel Mosso. All rights reserved.
 //
-
 //v0.01ALPHA
 
 #include <curses.h>
